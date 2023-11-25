@@ -1,0 +1,15 @@
+
+/*this is important to give the map a height*/
+/* #map {
+  width: auto;
+  height: 100%;
+} */
+
+
+.leaflet-tooltip.my-labels {
+  background-color: transparent;
+  border: transparent;
+  box-shadow: none;
+  color: black;
+  font-size: medium;
+  }
